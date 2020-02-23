@@ -10,9 +10,9 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: 指数基金管理  股票期货交易创业投资   股票期货量化交易策略研究院   # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/pexels/header_image.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  股票期货指数基金管理
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
