@@ -5,7 +5,7 @@ url: "goldtop.top"
 # THEME-SPECIFIC CONFIGURATION
 title: 股票期货投资 指数基金管理                                    # site's title
 description: "指数基金管理  股票期货创业投资     股票期货交易研究院  量化交易研究院    缠论技术"      # used by search engines
-avatar: /assets/header_image.jpg                        # Empty for no avatar in navbar
+avatar: assets/img/triangle.png                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
