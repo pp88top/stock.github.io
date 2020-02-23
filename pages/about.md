@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 藏宝阁
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [藏宝阁, 技术研究院]
 ---
 
 ## 股票期货专业投资 
