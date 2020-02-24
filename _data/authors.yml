@@ -1,17 +1,17 @@
 rohanchandra: # author-id
-  name: "Rohan Chandra"
-  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
-  url: "https://github.com/rohanchandra"
+  name:
+  avatar:
+  url:
 sylhare:
-  name: Sylhare
+  name:
   avatar: "assets/img/avatars/sylhare_avatar.png"
-  url: "https://github.com/sylhare"
+  url:
 mmistakes:
-  name: "Michael Rose"
-  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
-  url: "https://github.com/mmistakes"
+  name:
+  avatar:
+  url:
 mhagnumdw:
-  name: Mhagnumdw
+  name:
   avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
   url:
 unknown:
