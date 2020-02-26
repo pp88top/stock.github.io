@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Portfolio 
+title : 技术研究院 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "量化交易 技术研究院" 
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+tags: [技术研究院]
 ---
 
 {% include portfolio.html %}
