@@ -31,8 +31,7 @@ tags: [藏宝阁, 技术研究院]
 * #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)
 * #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |
 * #### [盈透证券](https://www.interactivebrokers.com) |[老虎证券](https://www.itiger.com/) |[瑞讯](https://swissquote.com)| [芝商所](https://www.cmegroup.com/)
-
-
+* #### [yahoofinance](https://finance.yahoo.com/)  |  [google分析](https://analytics.google.com/analytics/web/)  | 
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
