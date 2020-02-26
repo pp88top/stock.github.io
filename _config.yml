@@ -4,12 +4,12 @@ url: "goldtop.top"
 
 # THEME-SPECIFIC CONFIGURATION
 title: 股票期货投资 指数基金管理                                    # site's title
-description: "指数基金管理  股票期货创业投资     股票期货交易研究院  量化交易研究院    缠论技术"      # used by search engines
+description: " 股票期货交易策略  量化交易研究院   缠论技术  python编程 "      # used by search engines
 avatar: assets/img/triangle.png                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: 指数基金管理  股票期货交易创业投资   股票期货量化交易策略研究院   # Change Blog header text
+header_text: stock   股票期货交易创业投资   股票期货量化交易策略  缠论技术分析 python编程   # Change Blog header text
 header_feature_image: assets/img/pexels/header_image.jpg
 footer_text: >
   股票期货指数基金管理
@@ -21,7 +21,7 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 
 # Features
 katex: true                                             # Enable if using math markup
-google_analytics: G-G2SC5Y5KW9                                      # Tracking ID, e.g. "UA-000000-01"
+google_analytics: G-G2SC5Y5KW9                          # Tracking ID, e.g. "UA-000000-01"
 disqus_shortname:                                       # Your discus shortname for comments
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
 footer_icons:                                           # In _data/social.yml
