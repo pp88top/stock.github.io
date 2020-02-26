@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 精美图片
-subtitle: From the pexels folder
+title: 美图
+subtitle: 
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [图片资源]
