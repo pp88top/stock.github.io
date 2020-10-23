@@ -24,12 +24,12 @@ tags: [藏宝阁, 技术研究院]
 * #### [东方财富数据中心](http://data.eastmoney.com/center/)|[国家统计局](http://www.stats.gov.cn/)|[上海证券交易所](http://www.sse.com.cn/)|[深圳证券交易所](http://www.szse.cn/)
 * ####  [期货日报](http://www.qhrb.com.cn/)| [知乎](https://www.zhihu.com/people/pp88.top/activities)|[摩尔金融](https://www.moer.cn/)|[和讯期货](http://futures.hexun.com/)|[百度](https://baidu.com)  |[Bing](https://cn.bing.com/)
 * ####  [谷歌翻译](https://translate.google.cn/)|[谷歌](https://google.com) |[国泰君安量化平台](https://quant.gtja.com/)|[自强学堂编程学习](https://code.ziqiangxuetang.com/)
-* #### [github](https://github.com)   |[yangdex](https://connect.yandex.ru/portal/services/webmaster/resources/pp88.top)|[酷狗音乐](https://www.kugou.com/yy/html/rank.html)|[网易音乐](https://music.163.com/#/discover/toplist?id=2250011882)|[果汁导航](http://guozhivip.com/nav/)
+* #### [github](https://github.com)   |[yangdex](https://connect.yandex.ru/portal/services/webmaster/resources/pp88.top)|[酷狗音乐](https://www.kugou.com/yy/html/rank.html)|[网易音乐](https://music.163.com/#/discover/toplist?id=2250011882)
 * #### [谷歌分析](https://analytics.google.com/analytics/academy/)|[量化课堂](https://www.joinquant.com/study?f=home&m=memu)|[anaconda](https://www.anaconda.com/)| [python基础教程](https://www.runoob.com/python/python-tutorial.html)
 * #### [vnpy开源项目](https://github.com/wdgwz/vnpy)|[python资源包下载](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
 * #### [tushare财经数据接口](http://www.waditu.cn/classifying.html#id10)|[markdow教程](https://www.runoob.com/markdown/md-tutorial.html)| [okex交易所](https://www.okex.me/)
-* #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)
-* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |
+* #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)|[片库](www.pianku.tv)|[no视频](www.novipnoad.com)
+* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |[新奇遇电影](www.newqiyu.com)|[蒙面大侠电影](www.mengmiandaxia.com)
 * #### [盈透证券](https://www.interactivebrokers.com) |[老虎证券](https://www.itiger.com/) |[瑞讯](https://swissquote.com)| [芝商所](https://www.cmegroup.com/)
 * #### [yahoofinance](https://finance.yahoo.com/)  |  [google分析](https://analytics.google.com/analytics/web/)  | 
 
