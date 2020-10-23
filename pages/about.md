@@ -28,8 +28,8 @@ tags: [藏宝阁, 技术研究院]
 * #### [谷歌分析](https://analytics.google.com/analytics/academy/)|[量化课堂](https://www.joinquant.com/study?f=home&m=memu)|[anaconda](https://www.anaconda.com/)| [python基础教程](https://www.runoob.com/python/python-tutorial.html)
 * #### [vnpy开源项目](https://github.com/wdgwz/vnpy)|[python资源包下载](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
 * #### [tushare财经数据接口](http://www.waditu.cn/classifying.html#id10)|[markdow教程](https://www.runoob.com/markdown/md-tutorial.html)| [okex交易所](https://www.okex.me/)
-* #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)|[片库](www.pianku.tv)|[no视频](www.novipnoad.com)
-* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |[新奇遇电影](www.newqiyu.com)|[蒙面大侠电影](www.mengmiandaxia.com)
+* #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)|[片库](https://www.pianku.tv)|[no视频](https://www.novipnoad.com)
+* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |[新奇遇电影](https://www.newqiyu.com)|[蒙面大侠电影](https://www.mengmiandaxia.com)
 * #### [盈透证券](https://www.interactivebrokers.com) |[老虎证券](https://www.itiger.com/) |[瑞讯](https://swissquote.com)| [芝商所](https://www.cmegroup.com/)
 * #### [yahoofinance](https://finance.yahoo.com/)  |  [google分析](https://analytics.google.com/analytics/web/)  | 
 
