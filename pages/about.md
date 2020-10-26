@@ -7,15 +7,11 @@ tags: [藏宝阁, 技术研究院]
 ---
 
 ## 股票期货专业投资 
-* ## 财富和自由都在这里，记录全球金融波动。
 
 ### 股票期货投资  指数基金管理   量化交易  缠论技术
-#### 永久网站 [https://goldtop.top](https://goldtop.top)
-
-* 商业合作请联系邮箱 gold@goldtop.top   
 
 
-* #### 这里是一个牛散的投机路，这里有缠论研究 量化技术开发研究
+
 **** 
 * #### [招商证券快速通道](https://xtrade.newone.com.cn/ssologin?t=jykstd) |[大连商品交易所](http://www.dce.com.cn/)  |[上海期货交易所](http://www.shfe.com.cn/)
 * #### [证券时报网](http://www.stcn.com)   | [郑州商品交易所](http://www.czce.com.cn/)  | [上海国际能源交易中心](http://www.ine.cn/)
@@ -29,7 +25,7 @@ tags: [藏宝阁, 技术研究院]
 * #### [vnpy开源项目](https://github.com/wdgwz/vnpy)|[python资源包下载](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
 * #### [tushare财经数据接口](http://www.waditu.cn/classifying.html#id10)|[markdow教程](https://www.runoob.com/markdown/md-tutorial.html)| [okex交易所](https://www.okex.me/)
 * #### [twitter](https://twitter.com/home)|[youtube](https://www.youtube.com)|[阿里云](https://www.aliyun.com/)|[影视](http://www.5nj.com)|[片库](https://www.pianku.tv)|[no视频](https://www.novipnoad.com)
-* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |[新奇遇电影](https://www.newqiyu.com)|[蒙面大侠电影](https://www.mengmiandaxia.com)
+* #### [谷歌站长工具](https://search.google.com/search-console) |[全球金融数据](https://cn.tradingview.com) |[新奇遇电影](https://www.newqiyu.com)|[蒙面大侠电影](https://www.mengmiandaxia.com)|[电视直播](http://m.iptv803.com)|[电视直播2](http://m.iptv206.com)
 * #### [盈透证券](https://www.interactivebrokers.com) |[老虎证券](https://www.itiger.com/) |[瑞讯](https://swissquote.com)| [芝商所](https://www.cmegroup.com/)
 * #### [yahoofinance](https://finance.yahoo.com/)  |  [google分析](https://analytics.google.com/analytics/web/)  | 
 
