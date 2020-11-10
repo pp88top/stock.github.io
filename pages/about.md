@@ -8,10 +8,7 @@ tags: [藏宝阁, 技术研究院]
 
 ## 股票期货专业投资 
 
-### 股票期货投资  指数基金管理   量化交易  缠论技术
-
-
-
+### 股票期货投资数据通道
 **** 
 * #### [招商证券快速通道](https://xtrade.newone.com.cn/ssologin?t=jykstd) |[大连商品交易所](http://www.dce.com.cn/)  |[上海期货交易所](http://www.shfe.com.cn/)
 * #### [证券时报网](http://www.stcn.com)   | [郑州商品交易所](http://www.czce.com.cn/)  | [上海国际能源交易中心](http://www.ine.cn/)
