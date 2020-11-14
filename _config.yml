@@ -9,7 +9,7 @@ avatar: assets/img/triangle.png                        # Empty for no avatar in 
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: 股票期货交易策略  量化交易研究院   缠论技术  python编程   # Change Blog header text
+header_text: 股票期货投资  量化交易   # Change Blog header text
 header_feature_image: assets/img/pexels/header_image.jpg
 footer_text: >
   股票期货指数基金管理
