@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 美图
+title: 股票期货图
 subtitle: 
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
