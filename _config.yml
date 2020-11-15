@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: 股票期货投资  量化交易   # Change Blog header text
-header_feature_image: assets/img/pexels/header_image.jpg
+header_feature_image: assets/img/thumbnails/header_image.jpg
 footer_text: >
   股票期货指数基金管理
 
