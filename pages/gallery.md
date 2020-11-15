@@ -2,7 +2,7 @@
 layout: page
 title: 股票期货图
 subtitle: 
-permalink: /gallery/
+permalink: /photo/
 gallery_path: "assets/img/pexels"
 tags: [图片资源]
 ---
