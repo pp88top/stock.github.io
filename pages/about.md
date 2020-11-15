@@ -2,7 +2,7 @@
 layout: page
 title: 藏宝阁
 permalink: /about/
-feature-img: "assets/img/pexels/pic1.jpg"
+feature-img: "assets/img/thumbnails/pic1.jpg"
 tags: [藏宝阁, 技术研究院]
 ---
 
