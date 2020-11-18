@@ -1,0 +1,8 @@
+---
+layout: post
+title: 510500  500ETF111490
+img: "assets/img/portfolio/159995111890 芯片ETF.jpg"
+date: 11/18  2020
+tags: [技术研究院]
+---
+![image]({{ page.img | relative_url }})
