@@ -12,7 +12,7 @@ tags: [藏宝阁, 技术研究院]
 **** 
 * #### [招商证券快速通道](https://xtrade.newone.com.cn/ssologin?t=jykstd) |[大连商品交易所](http://www.dce.com.cn/)  |[上海期货交易所](http://www.shfe.com.cn/)
 * #### [证券时报网](http://www.stcn.com)   | [郑州商品交易所](http://www.czce.com.cn/)  | [上海国际能源交易中心](http://www.ine.cn/)
-* #### [基金业协会](http://www.amac.org.cn/) |[中国金融期货交易所](http://www.cffex.com.cn/)  |[中证指数有限公司](http://www.csindex.com.cn/)
+* #### [基金业协会](http://www.amac.org.cn/) |[中国金融期货交易所](http://www.cffex.com.cn/)  |[中证指数有限公司](http://www.csindex.com.cn/) |[缠中说禅缠论博客](http://blog.sina.com.cn/chzhshch)
 * #### [巨潮资讯](http://www.cninfo.com.cn) |[证监会](http://www.csrc.gov.cn/) | [证券协会](https://www.sac.net.cn/)|[263企业邮箱](http://mail.263.net/)
 * #### [东方财富数据中心](http://data.eastmoney.com/center/)|[国家统计局](http://www.stats.gov.cn/)|[上海证券交易所](http://www.sse.com.cn/)|[深圳证券交易所](http://www.szse.cn/)
 * ####  [期货日报](http://www.qhrb.com.cn/)| [知乎](https://www.zhihu.com/people/pp88.top/activities)|[摩尔金融](https://www.moer.cn/)|[和讯期货](http://futures.hexun.com/)|[百度](https://baidu.com)  |[Bing](https://cn.bing.com/)
