@@ -3,7 +3,7 @@ layout: page
 title: 金融工具导航
 permalink: /about/
 feature-img: "assets/img/thumbnails/pic1.jpg"
-tags: [金融, 工具导航]
+tags: [裕燊数字技术湖北有限公司]
 ---
 
 ## 裕燊资本
