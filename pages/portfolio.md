@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : 技术研究院 
+title : 裕燊资本 
 permalink: /stock/
-subtitle: "量化交易 python编程" 
+subtitle: "裕燊资本 裕燊数字技术湖北有限公司" 
 feature-img: "assets/img/thumbnails/header_image.jpg"
-tags: [技术研究院，python编程技术]
+tags: [裕燊资本，裕燊数字技术湖北有限公司]
 ---
 
 {% include portfolio.html %}
